@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "aocp_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  },
+  {
+    "repository": "aocp_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common"
+  },
+  {
+    "repository": "aocp_device_samsung_d2-common",
+    "target_path": "device/samsung/d2-common"
+  },
+  {
+    "repository": "android_kernel_samsung_d2",
+    "target_path": "kernel/samsung/d2"
+  },
+  {
+    "repository": "proprietary_vendor_d2spr",
+    "target_path": "vendor/samsung/d2spr"
+  },
+  {
+    "repository": "proprietary_vendor_d2-common",
+    "target_path": "vendor/samsung/d2-common"
+  }
+]
+
