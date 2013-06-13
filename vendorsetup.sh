@@ -1,2 +1,2 @@
-add_lunch_combo_aocp_d2spr-userdebug
+add_lunch_combo aocp_d2spr-eng
 
